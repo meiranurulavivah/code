@@ -1,5 +1,4 @@
 to do in git and github
--.gitignore
 -github pages
 -rebase
 
