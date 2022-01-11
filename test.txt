@@ -1,9 +1,9 @@
 to do in git and github
--membuat branch
+-buat branch
 -melakukan merging
 1. fast forward merge
 2. three way forward merge
--selesaikan merge konflik
+3. selesaikan merge konflik
 -forking
 -remote git github
 -github pages
