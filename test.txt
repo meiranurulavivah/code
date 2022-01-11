@@ -1,12 +1,13 @@
 to do in git and github
 -buat branch
-1. fast forward
-2. three way forward 
+-merging
+1. fast forward merge
+2. three way forward merge
 -selesaikan merge konflik
 -forking
 -remote git github
 -github pages
 -multiple remote
 -remote branch
--gitignore
+-.gitignore
 -rebase
