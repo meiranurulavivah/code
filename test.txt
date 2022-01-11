@@ -1,6 +1,6 @@
 to do in git and github
--buat branch
--merging
+-membuat branch
+-melakukan merging
 1. fast forward merge
 2. three way forward merge
 -selesaikan merge konflik
