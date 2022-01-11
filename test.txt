@@ -1,7 +1,4 @@
 to do in git and github
--buat repo
--buat simple file
--coba commit
 -buat branch
 1. fast forward
 2. three way forward 
