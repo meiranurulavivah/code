@@ -1,0 +1,15 @@
+to do in git and github
+-buat repo
+-buat simple file
+-coba commit
+-buat branch
+1. fast forward
+2. three way forward 
+-selesaikan merge konflik
+-forking
+-remote git github
+-github pages
+-multiple remote
+-remote branch
+-gitignore
+-rebase
